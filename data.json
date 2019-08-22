@@ -1,0 +1,17 @@
+[
+  {
+	icon : "fa fa-building-o",
+    title : "$50B+",
+    text : "IN DIGITAL CURRENCY EXCHANGED",
+  },
+  {
+	icon : "fa fa-globe",
+    title : 32,
+    text : "COUNTRIES SUPPORTED",
+  },
+  {
+	icon : "fa fa-users",
+    title : "10M+",
+    text : "CUSTOMERS SERVED",
+  }
+]
